@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Vittor Ropcke",
+        "cpf": "24210681008",
+        "email": "ropckevittor@teste.com",
+        "wpp": "11994567281",
+        "address": {
+            "postalcode": "09180050",
+            "street": "Travessa Leonardo",
+            "number": "164",
+            "details": "Casa",
+            "district": "Vila Eldízia",
+            "city_state": "Santo André/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh_gratuita.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Paulo",
+        "cpf": "x24210681008AA",
+        "email": "joaopaulo@teste.com",
+        "wpp": "11994562511",
+        "address": {
+            "postalcode": "09180050",
+            "street": "Travessa Leonardo",
+            "number": "164",
+            "details": "Casa",
+            "district": "Vila Eldízia",
+            "city_state": "Santo André/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh_gratuita.jpg"
+    },
+    "email_inv": {
+        "name": "Rogério Silva",
+        "cpf": "24210681008",
+        "email": "rogerio#teste.com",
+        "wpp": "11994562511",
+        "address": {
+            "postalcode": "09180050",
+            "street": "Travessa Leonardo",
+            "number": "164",
+            "details": "Casa",
+            "district": "Vila Eldízia",
+            "city_state": "Santo André/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "images/cnh_gratuita.jpg"
+    }
+}
